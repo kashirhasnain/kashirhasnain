@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](https://attock.comsats.edu.pk/) with Software Development skills 🚀 from Pakistan, currently, I'm Core Team Member Developer Student Club CUIATK🙍🏽‍♂️ [@googledevelopers](https://dsc.community.dev/u/mcn6d9/), Freelance Software Developer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/~0105cb6fc329050d03), Google Cloud Expert👨🏽‍💼[@Qwicklab](https://www.qwiklabs.com/public_profiles/ea84a7e2-e8fc-4604-b261-8de4bc3a2fa8) 
+Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](https://attock.comsats.edu.pk/) with Software Development skills 🚀 from Pakistan, currently, I'm Core Team Member Developer Student Club CUIATK as Cloud Engineer🙍🏽‍♂️ [@googledevelopers](https://dsc.community.dev/u/mcn6d9/), Freelance Software Developer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/~0105cb6fc329050d03), Google Cloud Expert👨🏽‍💼[@Qwicklab](https://www.qwiklabs.com/public_profiles/ea84a7e2-e8fc-4604-b261-8de4bc3a2fa8) 
 
 
   
@@ -28,7 +28,7 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png"></code>
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
