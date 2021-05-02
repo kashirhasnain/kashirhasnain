@@ -21,8 +21,10 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍🌱 I’m currently Exploring Cloud Computing Game (Use of VR Technology); 
+- 👨🏽‍ I’m currently Exploring Cloud Computing Game (Use of VR Technology); 
 - 📫 How to reach me: hasnainkashir6105@gmail.com;
+- 📫 How to reach me: Whatsapp:03225801857;
+- 🌱 I’m currently learning everything;
 - 📝[Resume](https://kashir-hasnain.github.io/about/Kashir_resume.pdf)
 
 **Languages and Tools:**  
@@ -36,7 +38,10 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-                                                   
+   <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kashir-hasnain&show_icons=true&hide_border=true" />
+                                                 
                                                                       
 
 
