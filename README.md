@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm Raheel Siddiqui, An undergradute Software Engineering student [@CUI](https://attock.comsats.edu.pk/) with Software Development skills 🚀 from Pakistan, currently, I'm Core Team Member Developer Student Club CUIATK🙍🏽‍♂️ [@googledevelopers](https://dsc.community.dev/u/mcn6d9/), Freelance Software Developer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/~0105cb6fc329050d03), Google Cloud Expert👨🏽‍💼[@Qwicklab](https://www.qwiklabs.com/public_profiles/ea84a7e2-e8fc-4604-b261-8de4bc3a2fa8) 
+Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](https://attock.comsats.edu.pk/) with Software Development skills 🚀 from Pakistan, currently, I'm Core Team Member Developer Student Club CUIATK🙍🏽‍♂️ [@googledevelopers](https://dsc.community.dev/u/mcn6d9/), Freelance Software Developer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/~0105cb6fc329050d03), Google Cloud Expert👨🏽‍💼[@Qwicklab](https://www.qwiklabs.com/public_profiles/ea84a7e2-e8fc-4604-b261-8de4bc3a2fa8) 
 
 
   
