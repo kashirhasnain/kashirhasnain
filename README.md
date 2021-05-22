@@ -39,7 +39,6 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-**Visitors** 
 ![](https://visitor-badge.glitch.me/badge?page_id=kashir-hasnain.kashir-hasnain)
                                                  
                                                                       
