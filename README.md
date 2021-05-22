@@ -38,9 +38,9 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kashir-hasnain&show_icons=true&hide_border=true" />
+**Visitors** 
+![](https://visitor-badge.glitch.me/badge?page_id=kashir-hasnain.kashir-hasnain)
                                                  
                                                                       
 
