@@ -28,7 +28,6 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 - 📫 How to reach me: Whatsapp:03225801857;
 - 🌱 I’m currently learning everything;
 - 📝[Resume](https://kashir-hasnain.github.io/about/Kashir_resume.pdf)
-
 **Languages and Tools:**  
 
 
@@ -39,6 +38,11 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashir-hasnain&show_icons=true" alt="kashir-hasnain" /></p>
+
+
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kashir-hasnain.kashir-hasnain)
