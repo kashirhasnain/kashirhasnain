@@ -2,19 +2,16 @@
 
 
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://twitter.com/kashir_hasnain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kashir_hasnain/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kashirhasnain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kashirhasnain/" height="30" width="40" /></a>
-<a href="https://facebook.com/kashirh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kashirh" height="30" width="40" /></a>
+<a href="https://dev.to/kashirhasnain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mriceflame" height="40" width="40" /></a>
+<a href="https://twitter.com/kashir_hasnain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kashirhasnain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="s4a" height="30" width="40" /></a>
+<a href="https://fb.com/kashirh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mriceflame" height="30" width="40" /></a>
 <a href="https://medium.com/@hasnainkashir6105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hasnainkashir" height="30" width="40" /></a>
-  
-<a href="https://dev.to/kashirhasnain">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kashir Hasnain's DEV Community Profile" height="40" width="40">
-</a>
-</p>   
 
+</p>
 
 Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](https://attock.comsats.edu.pk/) with Software Development skills 🚀 from Pakistan, currently, I'm Core Team Member Developer Student Club CUIATK as Cloud Engineer🙍🏽‍♂️ [@googledevelopers](https://dsc.community.dev/u/mcn6d9/), Freelance Software Developer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/~0105cb6fc329050d03), Google Cloud Expert👨🏽‍💼[@Qwicklab](https://www.qwiklabs.com/public_profiles/ea84a7e2-e8fc-4604-b261-8de4bc3a2fa8) 
 
