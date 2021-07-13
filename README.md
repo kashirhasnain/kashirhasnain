@@ -20,7 +20,7 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍ I’m currently Exploring Cloud Computing Game (Use of VR Technology); 
-- 📫 How to reach me: hasnainkashir6105@gmail.com;
+- 📫 How to reach me: hasnainkashir6105@gmail.com
 - 🌱 I’m currently learning everything;
 - 📝[Resume](https://kashir-hasnain.github.io/about/Kashir_resume.pdf)
 <br>
@@ -43,9 +43,5 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 ![](https://visitor-badge.glitch.me/badge?page_id=kashir-hasnain.kashir-hasnain)
                                                  
                                                                       
-<div align="center">
 
-![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
-
-</div>
 
