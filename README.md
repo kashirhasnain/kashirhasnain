@@ -31,7 +31,7 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 
 
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=kashir-hasnain.kashir-hasnain)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashir-hasnain&show_icons=true" alt="kashir-hasnain" /></p>
 
@@ -40,7 +40,9 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=kashir-hasnain.kashir-hasnain)
+
+
+
                                                  
                                                                       
 
