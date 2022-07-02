@@ -6,14 +6,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kashirhasnain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mriceflame" height="40" width="40" /></a>
-<a href="https://twitter.com/kashir_hasnain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kashirhasnain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="s4a" height="30" width="40" /></a>
-<a href="https://fb.com/kashirh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mriceflame" height="30" width="40" /></a>
+<a href="https://twitter.com/kashirhasnain1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kashirhasnain1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="s4a" height="30" width="40" /></a>
+<a href="https://fb.com/kashirhasnain1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mriceflame" height="30" width="40" /></a>
 <a href="https://medium.com/@hasnainkashir6105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hasnainkashir" height="30" width="40" /></a>
 
 </p>
 
-Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](https://attock.comsats.edu.pk/) with Software Development skills 🚀 from Pakistan, I'm Former Core Team Member Google  Developer Student Club CUIATK as Cloud Engineer🙍🏽‍♂️ [@googledevelopers](https://dsc.community.dev/u/mcn6d9/), Freelance Software Developer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/~0105cb6fc329050d03), Google Cloud Expert👨🏽‍💼[@Qwicklab](https://www.qwiklabs.com/public_profiles/ea84a7e2-e8fc-4604-b261-8de4bc3a2fa8) 
+Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](https://attock.comsats.edu.pk/) with Cloud Engneering skills 🚀 from Pakistan, I'm Former Core Team Member Google  Developer Student Club CUIATK as Cloud Engineer🙍🏽‍♂️ [@googledevelopers](https://dsc.community.dev/u/mcn6d9/), Freelance Software Developer 👨🏽‍💻 [@Upwork](https://www.upwork.com/freelancers/~0105cb6fc329050d03), Google Cloud Expert👨🏽‍💼[@Qwicklab](https://www.qwiklabs.com/public_profiles/ea84a7e2-e8fc-4604-b261-8de4bc3a2fa8) 
 
 
   
@@ -33,9 +33,9 @@ Hi, I'm Kashir Hasnain, An undergradute Software Engineering student [@CUI](http
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=kashir-hasnain.kashir-hasnain)
+![](https://visitor-badge.glitch.me/badge?page_id=kashirhasnain1.kashirhasnain1)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashir-hasnain&show_icons=true" alt="kashir-hasnain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashirhasnain1&show_icons=true" alt="kashirhasnain1" /></p>
 
 
 
