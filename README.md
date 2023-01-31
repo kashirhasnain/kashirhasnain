@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **JMeter** and **Selenium**.
+- 🔭 I’m currently working on  **Selenium**.
 - 🌱 I’m currently learning Software Quality Assurance (Automation).
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/kashirdotcom/">LinkedIn</a>
 - **Languages and Tools:**
