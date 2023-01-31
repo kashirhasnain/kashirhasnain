@@ -24,7 +24,7 @@
 
 <p align="center">
 	<a href="https://github.com/Kashirhasnainoffical">
-		  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Kashirdotcom&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="Kashir Hasnain"/>
+		  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Kashirhasnainoffical&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="Kashir Hasnain"/>
 		  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashirhasnainoffical&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="Kashir Hasnain"/>
 	</a>
 </p>
