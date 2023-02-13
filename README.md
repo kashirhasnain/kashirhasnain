@@ -10,10 +10,10 @@
 - 🔭 I’m currently working on  **Selenium**.
 - 🌱 I’m currently learning Software Quality Assurance (Automation).
 - **Languages and Tools:**
- <p align="left">
+ <p>
  
  
- <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
+
  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
 
 
