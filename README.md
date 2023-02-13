@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on  **Selenium**.
 - 🌱 I’m currently learning Software Quality Assurance (Automation).
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/kashirdotcom/">LinkedIn</a>
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/kashirhasnainoffical/">LinkedIn</a>
+<br>
+<br>
 - **Languages and Tools:**
  <p align="left">
  
@@ -40,7 +42,7 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=kashirdotcom.kashirdotcom)
+![](https://visitor-badge.glitch.me/badge?page_id=kashirhasnainoffical.kashirhasnainoffical)
 
 
 
