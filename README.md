@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on  **Selenium**.
 - 🌱 I’m currently learning Software Quality Assurance (Automation).
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/kashirhasnainoffical/">LinkedIn</a>
-<br>
-<br>
 - **Languages and Tools:**
  <p align="left">
  
