@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on  **Selenium**.
 - 🌱 I’m currently learning Software Quality Assurance (Automation).
 - **Languages and Tools:**
- <p>
+ <p align="center">
  
  
 
