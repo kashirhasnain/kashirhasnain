@@ -12,20 +12,100 @@
 </div>
 
 - 🔭 I’m currently Learning **Cypress** and **Github Actions**.
-- 🔭 Level 1 Seller @[Fiverr](https://[fiverr.com/kashirhasnain](https://fiverr.com/kashirhasnain))
+- 🔭 Level 1 Seller @[Fiverr](https://fiverr.com/kashirhasnain(https://fiverr.com/kashirhasnain))
 - 📫 Email: hasnainkashir6105@gmail.com (Email)
 - 📫 Profilo: [kashirhasnainoffical.github.io](https://kashirhasnainoffical.github.io)
 
 
- **Languages and Tools:**
- <p>
- 
- 
+<h1 align="left">Languages & Framework </h1>
 
- <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
- <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+**Operating System**
+|<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>|<img src="https://devicons.railway.app/i/windows10.svg" alt="Windows" width="40" height="40"/>|<img src="https://img.icons8.com/color/344/mac-os-logo.png" alt="MacOS" width="60" height="60"/>
+--- | --- | --- |
 
+**Java Based Testing & Reporting Tool**
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://img.icons8.com/officel/344/selenium-test-automation.png" height="40" width="40" alt="selenium logo"  />
+
+
+ **SCM**
+ 
+|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+--- | 
+
+ **Dev-Ops Tools**
+ 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg" alt="browserstack" width="80" height="50"/> </a>
+
+
+
+**Mobile Operating System**
+ 
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>|<img src="https://devicons.railway.app/i/apple-dark.svg" alt="selenium" width="40" height="40"/> </a>
+ --- | --- |
+
+
+**Application Lifecycle Management Tools**
+ 
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
+--- |
+
+**BackEnd Database Provider** 
+ 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
+<img height="55" src="/nginx-original.svg" alt="nginx">
+
+**API Testing Tools**
+ 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<img src="https://miro.medium.com/max/400/1*dbeTcEaIPgyZZ6aaC519RQ.png" height="40" width="40" alt="restassured logo"  />
+
+
+**Javascript & Typescript Based Framework**
+ 
+<a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+
+ 
+**Communication Tool**
+
+|<img height="48" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="./teams.png" alt="teams" /> | <img height="50" width="52" img src="https://cdn.worldvectorlogo.com/logos/skype-3.svg" title="Skype" alt="Skype Logo" />
+--- | --- | --- |
+
+</p>
+
+
+
+
+**Browser Support**
+![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
+--- | --- | --- | --- | --- |
+
+
+
+_____________________________________________________________________________________________________________________________________
+### Connect With Me
+<a href="https://www.linkedin.com/in/kashirhasnainoffical">
+  <img align="left" alt="Amit's LinkedIn" width="40px" src="https://img.icons8.com/color/2x/linkedin-2--v2.gif"/> 
+</a> 
+
+<a href="mailto:hasnainkashir6105@gmail.com">
+  <img align="left" alt="Mitesh Dandade Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
+</a>
+  
+  
 
 
 
