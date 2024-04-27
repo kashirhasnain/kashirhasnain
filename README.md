@@ -12,7 +12,7 @@
 </div>
 
 - 🔭 I’m currently Learning **Cypress** and **Github Actions**.
-- 🔭 Level 1 Seller @[Fiverr](https://fiverr.com/kashirhasnain)
+- 🔭 Level 2 Seller @[Fiverr](https://fiverr.com/kashirhasnain)
 - 📫 Email: hasnainkashir6105@gmail.com (Email)
 - 📫 Profilo: [kashirhasnainoffical.github.io](https://kashirhasnainoffical.github.io)
 
